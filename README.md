@@ -5,6 +5,15 @@
 
 ## Майнор "Интеллектуальный анализ данных"
 
+## 2 курс
+
+[Определение тональности текста](https://github.com/RomanKhorin/Machine-Learning/blob/master/Определение%20тональности%20текста.ipynb)
+
+[Линейная регрессия: переобучение и регуляризация (Bike Rental Prediction)](https://github.com/RomanKhorin/Machine-Learning/blob/master/Линейная%20регрессия%20-%20переобучение%20и%20регуляризация.ipynb)
+
+[Предобработка данных и логистическая регрессия для задачи бинарной классификации](https://github.com/RomanKhorin/Machine-Learning/blob/master/Предобработка%20данных%20и%20логистическая%20регрессия%20для%20задачи%20бинарной%20классификации.ipynb)
+
+## 3 курс
 ### NLP
 
 ### Advanced ML
