@@ -16,9 +16,25 @@
 [Курсовой проект (Wine Quality Prediction)](https://github.com/RomanKhorin/Machine-Learning/blob/master/Wine%20Quality%20Prediction.ipynb)
 
 ## 3 курс
+### Advanced ML
+
+[Регрессия с SVM и определение языка слов](https://github.com/RomanKhorin/Machine-Learning/blob/master/Регрессия%20с%20SVM%20и%20определение%20языка%20слов.ipynb)
+
+[Alcohol Consumption Prediction](https://github.com/RomanKhorin/Machine-Learning/blob/master/Alcohol%20Consumption%20Prediction.ipynb)
+
+### Statistics
+
+[Hypothesis Testing](https://github.com/RomanKhorin/Machine-Learning/blob/master/Hypothesis%20Testing.ipynb)
+
+[Time Series Prediction](https://github.com/RomanKhorin/Machine-Learning/blob/master/Time%20Series%20Prediction.ipynb)
+
 ### NLP
 
-### Advanced ML
+[PyMorphy & NLTK Practice](https://github.com/RomanKhorin/Machine-Learning/blob/master/PyMorphy%20%26%20NLTK%20Practice.ipynb)
+
+[Word2vec practice](https://github.com/RomanKhorin/Machine-Learning/blob/master/word2vec%20practice.ipynb)
+
+[Name Classification with LSTM](https://github.com/RomanKhorin/Machine-Learning/blob/master/Name%20Classification%20with%20LSTM.ipynb)
 
 ## Практика Computer Vision
 
