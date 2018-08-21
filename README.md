@@ -13,6 +13,8 @@
 
 [Предобработка данных и логистическая регрессия для задачи бинарной классификации](https://github.com/RomanKhorin/Machine-Learning/blob/master/Предобработка%20данных%20и%20логистическая%20регрессия%20для%20задачи%20бинарной%20классификации.ipynb)
 
+[Wine Quality Prediction](https://github.com/RomanKhorin/Machine-Learning/blob/master/Wine%20Quality%20Prediction.ipynb)
+
 ## 3 курс
 ### NLP
 
