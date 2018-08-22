@@ -19,7 +19,7 @@
 - Современные методы машинного обучения (продвинутые методы машинного обучения и статистические методы в анализе данных);
 - Прикладные задачи анализа данных (решение различных прикладных задач анализа данных)
 
-## 2 курс
+### Введение в анализ данных
 
 [Определение тональности текста](https://github.com/RomanKhorin/Machine-Learning/blob/master/Определение%20тональности%20текста.ipynb)
 
@@ -29,20 +29,19 @@
 
 [Курсовой проект (Wine Quality Prediction)](https://github.com/RomanKhorin/Machine-Learning/blob/master/Wine%20Quality%20Prediction.ipynb)
 
-## 3 курс
-### Advanced ML
+### Современные методы машинного обучения
 
 [Регрессия с SVM и определение языка слов](https://github.com/RomanKhorin/Machine-Learning/blob/master/Регрессия%20с%20SVM%20и%20определение%20языка%20слов.ipynb)
 
 [Alcohol Consumption Prediction](https://github.com/RomanKhorin/Machine-Learning/blob/master/Alcohol%20Consumption%20Prediction.ipynb)
 
-### Statistics
+### Cтатистические методы в анализе данных
 
 [Hypothesis Testing](https://github.com/RomanKhorin/Machine-Learning/blob/master/Hypothesis%20Testing.ipynb)
 
 [Time Series Prediction](https://github.com/RomanKhorin/Machine-Learning/blob/master/Time%20Series%20Prediction.ipynb)
 
-### NLP
+### Прикладные задачи анализа данных
 
 [PyMorphy & NLTK Practice](https://github.com/RomanKhorin/Machine-Learning/blob/master/PyMorphy%20%26%20NLTK%20Practice.ipynb)
 
